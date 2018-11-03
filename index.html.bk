@@ -141,17 +141,19 @@
           </div>
           <!-- /showtimes -->
 
-          <!-- sign up -->
-          <div class="container py-5 text-center col-md-7">
-                <div class="container text-center">
-                  <h1 class="display-5 my-4 text-primary">Subscribe to my knowledgeshare!</h1>
-                  <div class="input-group col-sm-12">
-                    <input type="email" class="form-control form-control-lg" id="lgFormGroupInput" placeholder="Your Email Address">
-                    <button type="button" class="btn btn-secondary btn-info" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Sign up!</button>
-                  </div>
-                </div>
+          <!-- sign up form -->
+          <div class="container py-5 text-center col-md-6">
+            <div class="container text-center">
+              <h2 class="display-5 my-4 col-lg-auto text-primary">Subscribe to my knowledgeshare!</h2>
+              <div class="input-group mb-5 input-group-sm">
+                <input type="email" class="form-control" placeholder="Email">
+                <span class="input-group-btn">  
+                  <button type="button" class="btn btn-secondary btn-info" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Subscribe</button>
+                </span>
+              </div>
+            </div>
           </div>
-          <!-- /sign up -->
+          <!-- /sign up form -->
 
           <!-- foter -->
           <ul class="nav" id="links">
@@ -172,7 +174,6 @@
 
       </div>
       <!-- /page content -->
-    <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
