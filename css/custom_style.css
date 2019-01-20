@@ -4,3 +4,9 @@ h1 {
     font-weight: 900;
     text-transform: uppercase;
 }
+
+.list-group-item {
+    border: 0px solid #90bade;
+    text-align: left;
+    padding-left: 0rem;
+}
